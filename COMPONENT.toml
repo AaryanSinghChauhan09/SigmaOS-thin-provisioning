@@ -3,7 +3,7 @@ name = "SigmaOS-thin-provisioning"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "thin-provisioning component"
+description = "Thin Provisioning"
 upstream = []
 
 [contract]
